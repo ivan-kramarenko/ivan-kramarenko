@@ -2,3 +2,4 @@
 
 Technology stack:<br/>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?logo=JavaScript&logoColor=black&style=flat)
+![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)
