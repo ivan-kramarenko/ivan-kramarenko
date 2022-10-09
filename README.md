@@ -10,3 +10,5 @@ Technology stack:<br/>
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=white&style=for-the-badge)
 ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?logo=eslint&logoColor=white&style=for-the-badge)
 ![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?logo=Prettier&logoColor=white&style=for-the-badge)
+
+![Codewars card](https://github-readme-codewars-stats.herokuapp.com/api/?username=ivan-kramarenko&card&colormode=dark_mode)
