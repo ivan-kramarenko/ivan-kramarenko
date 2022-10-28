@@ -8,10 +8,12 @@ Technology stack:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![Typescript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+![NPM](https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white&style=for-the-badge)
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=white&style=for-the-badge)
 ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?logo=eslint&logoColor=white&style=for-the-badge)
 ![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?logo=Prettier&logoColor=white&style=for-the-badge)
 ![ReactRouter](https://img.shields.io/badge/-ReactRouter-CA4245?logo=ReactRouter&logoColor=white&style=for-the-badge)
+![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?logo=yarn&logoColor=white&style=for-the-badge)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=Vite&logoColor=white&style=for-the-badge)
 <br/>
 Outdated:
