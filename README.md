@@ -12,6 +12,7 @@ Technology stack:
 ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?logo=eslint&logoColor=white&style=for-the-badge)
 ![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?logo=Prettier&logoColor=white&style=for-the-badge)
 ![ReactRouter](https://img.shields.io/badge/-ReactRouter-CA4245?logo=ReactRouter&logoColor=white&style=for-the-badge)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=Vite&logoColor=white&style=for-the-badge)
 <br/>
 Outdated:
 <br/>
