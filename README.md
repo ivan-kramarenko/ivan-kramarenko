@@ -24,4 +24,4 @@ Outdated:
 ![.NET](https://img.shields.io/badge/-.net-512BD4?logo=.net&logoColor=white&style=for-the-badge)
 <br/>
 <br/>
-![Codewars card](https://www.codewars.com/users/ivan-kramarenko/badges/large?theme=light)
+![Codewars card](https://github-readme-codewars-stats.herokuapp.com/api/?username=ivan-kramarenko&card&colormode=bright_mode)
