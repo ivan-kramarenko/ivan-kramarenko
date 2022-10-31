@@ -15,6 +15,7 @@ Technology stack:
 ![ReactRouter](https://img.shields.io/badge/-ReactRouter-CA4245?logo=ReactRouter&logoColor=white&style=for-the-badge)
 ![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?logo=yarn&logoColor=white&style=for-the-badge)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=Vite&logoColor=white&style=for-the-badge)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=Figma&logoColor=white&style=for-the-badge)
 <br/>
 Outdated:
 <br/>
